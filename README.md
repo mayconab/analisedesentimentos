@@ -37,5 +37,3 @@ Aspecto: Experiência geral
 Avaliação: Negativa
 Detalhe: Foi horrível
 
-## Tecnologias
-[Azure](https://portal.vision.cognitive.azure.com/demo/dense-captioning)
